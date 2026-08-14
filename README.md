@@ -1,24 +1,23 @@
 <div align="center">
 
-<!-- ============== HERO BANNER ============== -->
+<!-- ============================ HERO ============================ -->
 <table width="100%">
 <tr>
-<td align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); padding: 50px 20px; border-radius: 20px; box-shadow: 0 10px 40px rgba(102,126,234,0.3);">
+<td align="center" style="background: linear-gradient(135deg, #6366F1 0%, #8B5CF6 45%, #06B6D4 100%); padding: 52px 20px; border-radius: 24px; box-shadow: 0 14px 50px rgba(99,102,241,0.40);">
 
 <img src="https://avatars.githubusercontent.com/zizhengwang2026" alt="avatar" width="150" style="border-radius:50%; border: 5px solid #ffffff; box-shadow: 0 10px 30px rgba(0,0,0,0.25);"/>
 
 <br/><br/>
 
-# <span style="color:#ffffff; text-shadow: 3px 3px 10px rgba(0,0,0,0.3); font-size: 48px; letter-spacing: 1px;">Zizheng Wang</span> ✨
+# <span style="color:#ffffff; text-shadow: 3px 3px 12px rgba(0,0,0,0.35); font-size: 50px; letter-spacing: 1px; font-family:'Segoe UI',system-ui,-apple-system,sans-serif;">Zizheng Wang</span> ✨
 
-### <span style="color:#e0e7ff; text-shadow: 1px 1px 4px rgba(0,0,0,0.2); font-size: 18px;">MSc Candidate · Mechanical Engineering · Zhejiang University</span>
+### <span style="color:#ECFEFF; text-shadow: 1px 1px 5px rgba(0,0,0,0.25); font-size: 18px; font-family:'Segoe UI',system-ui,sans-serif;">MSc Candidate · Mechanical Engineering · Zhejiang University</span>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=zizhengwang2026&label=Profile%20Views&color=ffffff&style=flat-square" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=zizhengwang2026&label=Profile%20Views&color=6366F1&style=flat-square" alt="views"/>
 &nbsp;&nbsp;
 <a href="https://github.com/zizhengwang2026?tab=followers"><img src="https://img.shields.io/github/followers/zizhengwang2026?style=social" alt="followers"/></a>
-&nbsp;&nbsp;
 <a href="https://github.com/zizhengwang2026?tab=repositories"><img src="https://img.shields.io/github/stars/zizhengwang2026?style=social" alt="stars"/></a>
 
 <br/><br/>
@@ -28,10 +27,12 @@
 <br/>
 
 <p>
-  <a href="#-about-me" style="display:inline-block;padding:10px 20px;margin:4px;border-radius:999px;background:#ffffff;color:#534AB7;text-decoration:none;font-weight:bold;box-shadow:0 4px 12px rgba(0,0,0,0.15);">🧭 About</a>
-  <a href="#-research-constellation" style="display:inline-block;padding:10px 20px;margin:4px;border-radius:999px;background:#F59E0B;color:#ffffff;text-decoration:none;font-weight:bold;box-shadow:0 4px 12px rgba(0,0,0,0.15);">🌌 Constellation</a>
-  <a href="#-featured-builds" style="display:inline-block;padding:10px 20px;margin:4px;border-radius:999px;background:#22C55E;color:#ffffff;text-decoration:none;font-weight:bold;box-shadow:0 4px 12px rgba(0,0,0,0.15);">🚀 Projects</a>
-  <a href="#-cheer-me-on" style="display:inline-block;padding:10px 20px;margin:4px;border-radius:999px;background:linear-gradient(135deg,#ff6b6b,#ee5a6f);color:#ffffff;text-decoration:none;font-weight:bold;box-shadow:0 4px 12px rgba(238,90,111,0.4);">💪 Cheer me</a>
+  <a href="#-about-me" style="display:inline-block;padding:10px 18px;margin:4px;border-radius:999px;background:#ffffff;color:#534AB7;text-decoration:none;font-weight:bold;box-shadow:0 4px 12px rgba(0,0,0,0.15);">🧭 About</a>
+  <a href="#-research-constellation" style="display:inline-block;padding:10px 18px;margin:4px;border-radius:999px;background:#F59E0B;color:#ffffff;text-decoration:none;font-weight:bold;box-shadow:0 4px 12px rgba(0,0,0,0.15);">🌌 Constellation</a>
+  <a href="#-tech-stack" style="display:inline-block;padding:10px 18px;margin:4px;border-radius:999px;background:#06B6D4;color:#ffffff;text-decoration:none;font-weight:bold;box-shadow:0 4px 12px rgba(0,0,0,0.15);">🛠️ Stack</a>
+  <a href="#-featured-builds" style="display:inline-block;padding:10px 18px;margin:4px;border-radius:999px;background:#22C55E;color:#ffffff;text-decoration:none;font-weight:bold;box-shadow:0 4px 12px rgba(0,0,0,0.15);">🚀 Projects</a>
+  <a href="#-research-outlook" style="display:inline-block;padding:10px 18px;margin:4px;border-radius:999px;background:#8B5CF6;color:#ffffff;text-decoration:none;font-weight:bold;box-shadow:0 4px 12px rgba(0,0,0,0.15);">🌟 Outlook</a>
+  <a href="#-cheer-me-on" style="display:inline-block;padding:10px 18px;margin:4px;border-radius:999px;background:linear-gradient(135deg,#ff6b6b,#ee5a6f);color:#ffffff;text-decoration:none;font-weight:bold;box-shadow:0 4px 12px rgba(238,90,111,0.4);">💪 Cheer</a>
 </p>
 
 </td>
@@ -40,51 +41,28 @@
 
 <br/>
 
-<!-- ============== ABOUT + CHEER SIDEBAR ============== -->
-<table width="100%">
-<tr>
-<td width="62%" valign="top" style="background: linear-gradient(135deg, #f8fafc, #eef2ff); border-left: 5px solid #6366F1; padding: 20px; border-radius: 12px;">
+<!-- ============================ ABOUT ME ============================ -->
+<div style="background: linear-gradient(135deg, #EEF2FF 0%, #F5F3FF 100%); border-left: 6px solid #6366F1; padding: 24px 28px; border-radius: 16px; box-shadow: 0 6px 20px rgba(99,102,241,0.12);">
 
 ### 🧭 About Me
 
-- 🎓 **MSc Candidate**, Mechanical Engineering — Zhejiang University
+- 🎓 **MSc Candidate**, Mechanical Engineering — <span style="background:#C7D2FE;padding:2px 8px;border-radius:6px;font-weight:bold;color:#312E81;">Zhejiang University</span>
 - 🤖 Building the bridge between **physical machines** and **machine intelligence**
-- 💡 Hands-on: teleoperation → **imitation learning (ACT)** on a real **SO-101** arm
-- 🛠️ Self-taught Python / PyTorch · currently leveling up C++ / ROS 2 / Sim-to-Real / RL
+- 💡 Hands-on: teleoperation → <span style="background:#FEF08A;padding:2px 8px;border-radius:6px;font-weight:bold;color:#713F12;">imitation learning (ACT)</span> on a real **SO-101** arm
+- 🛠️ Self-taught <span style="background:#DBFCE7;padding:2px 8px;border-radius:6px;font-weight:bold;color:#14532D;">Python</span> / <span style="background:#FEE2E2;padding:2px 8px;border-radius:6px;font-weight:bold;color:#7F1D1D;">PyTorch</span> · leveling up <span style="background:#CFFAFE;padding:2px 8px;border-radius:6px;font-weight:bold;color:#155E75;">ROS 2</span> / Sim-to-Real / RL
+- 🌱 Currently exploring <span style="background:#EDE9FE;padding:2px 8px;border-radius:6px;font-weight:bold;color:#5B21B6;">IL · RL · World Models · VLA</span>
 - 📍 Hangzhou, China
-
-</td>
-<td width="38%" valign="top" style="background: linear-gradient(135deg, #fff1f2, #ffe4e6); padding: 20px; border-radius: 12px;">
-
-<div align="center">
-
-### 💪 Show some love
-
-<a href="#-cheer-me-on" style="display:inline-block;padding:12px 24px;margin:6px;border-radius:999px;background:linear-gradient(135deg,#ff6b6b,#ee5a6f);color:#ffffff;text-decoration:none;font-weight:bold;box-shadow:0 6px 16px rgba(238,90,111,0.4);">🎉 Cheer me on!</a>
-
-<br/>
-
-<a href="https://github.com/zizhengwang2026?tab=repositories" style="display:inline-block;padding:10px 20px;margin:4px;border-radius:999px;background:linear-gradient(135deg,#6366F1,#8B5CF6);color:#ffffff;text-decoration:none;font-weight:bold;box-shadow:0 6px 16px rgba(99,102,241,0.3);">⭐ Star a repo</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/cheers-🚀_hit_me!-ff6b6b?style=for-the-badge&logo=fire&logoColor=white" alt="cheers"/>
 
 </div>
 
-</td>
-</tr>
-</table>
-
 <br/>
 
-<!-- ============== RESEARCH CONSTELLATION ============== -->
-
+<!-- ============================ RESEARCH CONSTELLATION ============================ -->
 ## 🌌 Research Constellation
 
 <div style="background: linear-gradient(180deg, #0f172a 0%, #1e293b 100%); padding: 50px 20px; border-radius: 20px; box-shadow: 0 10px 40px rgba(15,23,42,0.4);">
 
-<p align="center" style="color:#94a3b8; font-size: 14px; font-style: italic;">"Five stars orbit one mind — each one is a question I'm spending my MSc to answer."</p>
+<p align="center" style="color:#94a3b8; font-size: 14px; font-style: italic; font-family:'Georgia',serif;">"Five stars orbit one mind — each one is a question I'm spending my MSc to answer."</p>
 
 <br/>
 
@@ -143,40 +121,46 @@
 
 <br/>
 
-<!-- ============== TECH STACK ============== -->
-
+<!-- ============================ TECH STACK ============================ -->
 ## 🛠️ Tech Stack & Skill Levels
 
-<div style="background: linear-gradient(135deg, #f8fafc, #f1f5f9); padding: 24px; border-radius: 12px; border: 1px solid #e2e8f0;">
+<div style="background: linear-gradient(135deg, #ECFEFF 0%, #EEF2FF 100%); padding: 26px; border-radius: 16px; border: 1px solid #cffafe; box-shadow: 0 6px 20px rgba(6,182,212,0.10);">
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img alt="LeRobot" src="https://img.shields.io/badge/LeRobot-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img alt="ROS 2" src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 <br/>
 
-**📈 Leveling up (in progress):**
+**📈 Core stack (comfortable → learning):**
 
 | Skill | Level | Progress |
 |---|---|---|
 | 🐍 Python / PyTorch | Comfortable | <div style="background:#E2E8F0;border-radius:999px;height:10px;width:100%;"><div style="background:#22C55E;height:10px;border-radius:999px;width:80%;"></div></div> |
 | 🤖 LeRobot / ACT | Hands-on | <div style="background:#E2E8F0;border-radius:999px;height:10px;width:100%;"><div style="background:#22C55E;height:10px;border-radius:999px;width:65%;"></div></div> |
-| 💻 C++ | Building up | <div style="background:#E2E8F0;border-radius:999px;height:10px;width:100%;"><div style="background:#6366F1;height:10px;border-radius:999px;width:40%;"></div></div> |
 | 🤖 ROS 2 | Beginner | <div style="background:#E2E8F0;border-radius:999px;height:10px;width:100%;"><div style="background:#06B6D4;height:10px;border-radius:999px;width:30%;"></div></div> |
 | 🔁 Sim-to-Real (soft) | Beginner | <div style="background:#E2E8F0;border-radius:999px;height:10px;width:100%;"><div style="background:#22C55E;height:10px;border-radius:999px;width:35%;"></div></div> |
-| 🎯 RL fine-tuning | Beginner | <div style="background:#E2E8F0;border-radius:999px;height:10px;width:100%;"><div style="background:#F59E0B;height:10px;border-radius:999px;width:50%;"></div></div> |
+
+**🌱 Self-studying now ( Embodied-AI methods ):**
+
+| Method | Focus | Progress |
+|---|---|---|
+| 🎯 IL — Imitation Learning | ACT / Diffusion Policy, teleop → policy | <div style="background:#E2E8F0;border-radius:999px;height:10px;width:100%;"><div style="background:#6366F1;height:10px;border-radius:999px;width:55%;"></div></div> |
+| 🎲 RL — Reinforcement Learning | reward design, soft-body control | <div style="background:#E2E8F0;border-radius:999px;height:10px;width:100%;"><div style="background:#8B5CF6;height:10px;border-radius:999px;width:35%;"></div></div> |
+| 🌐 World Models | dream & plan inside a learned world | <div style="background:#E2E8F0;border-radius:999px;height:10px;width:100%;"><div style="background:#06B6D4;height:10px;border-radius:999px;width:25%;"></div></div> |
+| 🗣️ VLA — Vision-Language-Action | large models that act on robots | <div style="background:#E2E8F0;border-radius:999px;height:10px;width:100%;"><div style="background:#F59E0B;height:10px;border-radius:999px;width:20%;"></div></div> |
 
 </div>
 
 <br/>
 
-<!-- ============== FEATURED BUILDS ============== -->
-
+<!-- ============================ FEATURED BUILDS ============================ -->
 ## 🚀 Featured Builds
 
 ### 🦾 SO-101 × ACT — Real-Hardware Imitation Learning
@@ -255,6 +239,12 @@ python -m lerobot.act_client
 
 🔗 Code, weights, and notes → [`embodied-dea-journey/so101-act`](https://github.com/zizhengwang2026/embodied-dea-journey)
 
+<div style="background: linear-gradient(135deg, #EDE9FE, #DDD6FE); padding: 14px 18px; border-radius: 12px; border-left: 5px solid #8B5CF6; margin-top: 12px;">
+
+**🔜 What's next:** Port this IL pipeline onto **DEA (Dielectric Elastomer Actuator)** soft actuators — self-sensing → policy → voltage. That's where my soft-robotics body meets my learning brain.
+
+</div>
+
 ---
 
 ### 🌱 [embodied-dea-journey](https://github.com/zizhengwang2026/embodied-dea-journey)
@@ -270,7 +260,8 @@ Bridging the LeRobot IL framework to soft-robot hardware: sensing → policy →
 
 <br/>
 
-<!-- ============== LEARNING LOG ============== -->
+<!-- ============================ LEARNING LOG ============================ -->
+<div style="background: linear-gradient(135deg, #FFFBEB 0%, #FEF3C7 100%); border-left: 6px solid #F59E0B; padding: 22px 26px; border-radius: 16px; box-shadow: 0 6px 20px rgba(245,158,11,0.10);">
 
 ## 📓 Learning Log
 
@@ -280,9 +271,12 @@ Bridging the LeRobot IL framework to soft-robot hardware: sensing → policy →
 
 > 🔗 Full blog: [CSDN](https://blog.csdn.net/ZizhengWang2023) · Series *"Embodied Self-Study Weekly #N"*
 
+</div>
+
 <br/>
 
-<!-- ============== STATS ============== -->
+<!-- ============================ STATS ============================ -->
+<div style="background: linear-gradient(135deg, #F5F3FF 0%, #EDE9FE 100%); padding: 24px; border-radius: 16px; border: 1px solid #ddd6fe;">
 
 ## 📊 GitHub Stats
 
@@ -294,52 +288,98 @@ Bridging the LeRobot IL framework to soft-robot hardware: sensing → policy →
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zizhengwang2026&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </p>
 
+</div>
+
 <br/>
 
-<!-- ============== CHEER ME ON ============== -->
+<!-- ============================ RESEARCH OUTLOOK ============================ -->
+<div style="background: linear-gradient(135deg, #0f172a 0%, #312e81 100%); padding: 30px; border-radius: 18px; box-shadow: 0 10px 30px rgba(49,46,129,0.35);">
+
+## 🌟 Research Outlook
+
+<p align="center" style="color:#c7d2fe; font-size: 15px; font-family:'Georgia',serif; font-style: italic;">"Soft bodies, smart minds — my north star."</p>
+
+<br/>
+
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+
+  <span style="background:linear-gradient(135deg,#6366F1,#8B5CF6); color:#fff; padding:10px 18px; border-radius:999px; font-weight:bold; box-shadow:0 4px 14px rgba(99,102,241,0.4);">🦾 Soft Robotics</span>
+  <span style="background:linear-gradient(135deg,#06B6D4,#22D3EE); color:#063b46; padding:10px 18px; border-radius:999px; font-weight:bold; box-shadow:0 4px 14px rgba(6,182,212,0.4);">⚡ DEA</span>
+  <span style="background:linear-gradient(135deg,#22C55E,#4ADE80); color:#052e16; padding:10px 18px; border-radius:999px; font-weight:bold; box-shadow:0 4px 14px rgba(34,197,94,0.4);">🤖 Embodied AI</span>
+  <span style="background:linear-gradient(135deg,#F59E0B,#FBBF24); color:#451a03; padding:10px 18px; border-radius:999px; font-weight:bold; box-shadow:0 4px 14px rgba(245,158,11,0.4);">🧠 AI Agents</span>
+
+</div>
+
+<br/>
+
+<p style="color:#E2E8F0; font-size: 15px; text-align:center; line-height:1.7;">
+I'm building toward the intersection of <b style="color:#A5F3FC;">Soft Robotics</b>, <b style="color:#C7D2FE;">DEA (Dielectric Elastomer Actuators)</b>, <b style="color:#86EFAC;">Embodied AI</b>, and <b style="color:#FDE68A;">AI Agents</b>.<br/>
+My goal: make <b style="color:#fff;">soft, body-like machines</b> that learn from demonstration and act safely in the physical world —<br/>
+bridging <b style="color:#FCA5A5;">compliant materials (DEA artificial muscles)</b> with modern learning algorithms (<b>IL · RL · World Models · VLA</b>).
+</p>
+
+</div>
+
+<br/>
+
+<!-- ============================ CHEER ME ON ============================ -->
+<div id="-cheer-me-on" style="background: linear-gradient(135deg, #FFF1F2 0%, #FFE4E6 100%); padding: 30px; border-radius: 18px; border: 2px dashed #F43F5E; box-shadow: 0 8px 24px rgba(244,63,94,0.15);">
 
 ## 💪 Cheer me on
 
-<details id="-cheer-me-on">
-<summary style="cursor:pointer; font-size: 18px; font-weight: bold; color: #ee5a6f;">🎉 Tap to send some encouragement</summary>
-<br/>
-<div align="center" style="background: linear-gradient(135deg, #fff1f2, #ffe4e6); padding: 24px; border-radius: 16px; border: 2px dashed #f43f5e;">
+<div align="center">
 
-*"Soft bodies, smart minds — keep building."* 🔥
+**Every time someone opens my profile, the counter grows — that's how many visitors cheered for me. 💖**
 
 <br/><br/>
 
-Thanks for stopping by! Every ⭐ on a repo or a kind message keeps me going. Let's build the future of embodied AI together. 🚀
+<img src="https://api.visitorbadge.io/api/visitors?path=zizhengwang2026-cheer&label=Cheers%20for%20me&labelColor=%23f43f5e&countColor=%231e293b&countBackgroundColor=%23ffffff&style=flat-square" alt="cheers counter"/>
 
 <br/><br/>
 
 <p>
-  <a href="https://github.com/zizhengwang2026?tab=repositories" style="display:inline-block;padding:10px 20px;margin:4px;border-radius:999px;background:#22C55E;color:#fff;text-decoration:none;font-weight:bold;">⭐ Star a repo</a>
-  <a href="mailto:williamshine2024@163.com" style="display:inline-block;padding:10px 20px;margin:4px;border-radius:999px;background:#EA4335;color:#fff;text-decoration:none;font-weight:bold;">✉️ Say hi</a>
-  <a href="https://blog.csdn.net/ZizhengWang2023" style="display:inline-block;padding:10px 20px;margin:4px;border-radius:999px;background:#F5533D;color:#fff;text-decoration:none;font-weight:bold;">📝 Read my blog</a>
+  <a href="https://github.com/zizhengwang2026?tab=repositories" style="display:inline-block;padding:12px 22px;margin:4px;border-radius:999px;background:linear-gradient(135deg,#22C55E,#4ADE80);color:#063b46;text-decoration:none;font-weight:bold;box-shadow:0 6px 16px rgba(34,197,94,0.4);">⭐ Star a repo</a>
+  <a href="mailto:zizhengwang2026@gmail.com" style="display:inline-block;padding:12px 22px;margin:4px;border-radius:999px;background:linear-gradient(135deg,#6366F1,#8B5CF6);color:#fff;text-decoration:none;font-weight:bold;box-shadow:0 6px 16px rgba(99,102,241,0.4);">✉️ Say hi</a>
+  <a href="https://blog.csdn.net/ZizhengWang2023" style="display:inline-block;padding:12px 22px;margin:4px;border-radius:999px;background:linear-gradient(135deg,#F5533D,#FF8A65);color:#fff;text-decoration:none;font-weight:bold;box-shadow:0 6px 16px rgba(245,83,61,0.4);">📝 Read my blog</a>
 </p>
+
+<details style="margin-top:14px;">
+<summary style="cursor:pointer; font-size: 17px; font-weight: bold; color: #ee5a6f;">🎉 Tap to read a note for me</summary>
+<br/>
+<div align="center" style="background:#ffffff; padding: 20px; border-radius: 14px; border:1px solid #fecdd3;">
+
+*"Soft bodies, smart minds — keep building."* 🔥<br/><br/>
+Thanks for stopping by! Every ⭐ on a repo or a kind message keeps me going.<br/>
+Let's build the future of <b>Embodied AI</b> together. 🚀
 
 </div>
 </details>
 
+</div>
+
+</div>
+
 <br/>
 
-<!-- ============== CONNECT ============== -->
+<!-- ============================ CONNECT ============================ -->
+<div style="background: linear-gradient(135deg, #F8FAFC 0%, #EEF2FF 100%); padding: 28px; border-radius: 18px; border: 1px solid #e2e8f0;">
 
 ## 🤝 Connect
 
 <p align="center">
   <a href="https://github.com/zizhengwang2026" style="display:inline-block;padding:12px 24px;margin:4px;border-radius:12px;background:#181717;color:#fff;text-decoration:none;font-weight:bold;box-shadow:0 6px 16px rgba(0,0,0,0.15);">⭐ GitHub</a>
-  <a href="mailto:williamshine2024@163.com" style="display:inline-block;padding:12px 24px;margin:4px;border-radius:12px;background:linear-gradient(135deg,#EA4335,#FF6B6B);color:#fff;text-decoration:none;font-weight:bold;box-shadow:0 6px 16px rgba(234,67,53,0.3);">✉️ Email</a>
+  <a href="mailto:zizhengwang2026@gmail.com" style="display:inline-block;padding:12px 24px;margin:4px;border-radius:12px;background:linear-gradient(135deg,#EA4335,#FF6B6B);color:#fff;text-decoration:none;font-weight:bold;box-shadow:0 6px 16px rgba(234,67,53,0.3);">✉️ Email</a>
   <a href="https://blog.csdn.net/ZizhengWang2023" style="display:inline-block;padding:12px 24px;margin:4px;border-radius:12px;background:linear-gradient(135deg,#F5533D,#FF8A65);color:#fff;text-decoration:none;font-weight:bold;box-shadow:0 6px 16px rgba(245,83,61,0.3);">📝 CSDN</a>
 </p>
 
 <p align="center">📍 Hangzhou · Zhejiang University · <strong>Open to internships & collaborations</strong></p>
 
+</div>
+
 <br/>
 
 ---
 
-<sub>🪐 Built with curiosity. Last updated 2026-08-14 — v3 (rich & alive).</sub>
+<sub>🪐 Built with curiosity. Last updated 2026-08-14 — v4 (tech-fresh · colorful · alive).</sub>
 
 </div>
