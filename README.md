@@ -42,7 +42,7 @@
 <br/>
 
 <!-- ============================ ABOUT ME ============================ -->
-<div style="background: linear-gradient(135deg, #EEF2FF 0%, #F5F3FF 100%); border-left: 6px solid #6366F1; padding: 24px 28px; border-radius: 16px; box-shadow: 0 6px 20px rgba(99,102,241,0.12);">
+<div id="-about-me" style="background: linear-gradient(135deg, #EEF2FF 0%, #F5F3FF 100%); border-left: 6px solid #6366F1; padding: 24px 28px; border-radius: 16px; box-shadow: 0 6px 20px rgba(99,102,241,0.12);">
 
 ### 🧭 About Me
 
@@ -58,6 +58,8 @@
 <br/>
 
 <!-- ============================ RESEARCH CONSTELLATION ============================ -->
+<div id="-research-constellation">
+
 ## 🌌 Research Constellation
 
 <div style="background: linear-gradient(180deg, #0f172a 0%, #1e293b 100%); padding: 50px 20px; border-radius: 20px; box-shadow: 0 10px 40px rgba(15,23,42,0.4);">
@@ -119,12 +121,14 @@
 
 </div>
 
+</div>
+
 <br/>
 
 <!-- ============================ TECH STACK ============================ -->
-## 🛠️ Tech Stack & Skill Levels
+<div id="-tech-stack" style="background: linear-gradient(135deg, #ECFEFF 0%, #EEF2FF 100%); padding: 26px; border-radius: 16px; border: 1px solid #cffafe; box-shadow: 0 6px 20px rgba(6,182,212,0.10);">
 
-<div style="background: linear-gradient(135deg, #ECFEFF 0%, #EEF2FF 100%); padding: 26px; border-radius: 16px; border: 1px solid #cffafe; box-shadow: 0 6px 20px rgba(6,182,212,0.10);">
+## 🛠️ Tech Stack & Skill Levels
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -161,6 +165,8 @@
 <br/>
 
 <!-- ============================ FEATURED BUILDS ============================ -->
+<div id="-featured-builds">
+
 ## 🚀 Featured Builds
 
 ### 🦾 SO-101 × ACT — Real-Hardware Imitation Learning
@@ -258,6 +264,8 @@ Each paper → 3 questions / engineering meaning / how I'd use it.
 ### 🤖 [lerobot-dea-finetune](https://github.com/zizhengwang2026/lerobot-dea-finetune) *(planned)*
 Bridging the LeRobot IL framework to soft-robot hardware: sensing → policy → motion.
 
+</div>
+
 <br/>
 
 <!-- ============================ LEARNING LOG ============================ -->
@@ -293,7 +301,7 @@ Bridging the LeRobot IL framework to soft-robot hardware: sensing → policy →
 <br/>
 
 <!-- ============================ RESEARCH OUTLOOK ============================ -->
-<div style="background: linear-gradient(135deg, #0f172a 0%, #312e81 100%); padding: 30px; border-radius: 18px; box-shadow: 0 10px 30px rgba(49,46,129,0.35);">
+<div id="-research-outlook" style="background: linear-gradient(135deg, #0f172a 0%, #312e81 100%); padding: 30px; border-radius: 18px; box-shadow: 0 10px 30px rgba(49,46,129,0.35);">
 
 ## 🌟 Research Outlook
 
@@ -357,8 +365,6 @@ Let's build the future of <b>Embodied AI</b> together. 🚀
 
 </div>
 
-</div>
-
 <br/>
 
 <!-- ============================ CONNECT ============================ -->
@@ -380,6 +386,6 @@ Let's build the future of <b>Embodied AI</b> together. 🚀
 
 ---
 
-<sub>🪐 Built with curiosity. Last updated 2026-08-14 — v4 (tech-fresh · colorful · alive).</sub>
+<sub>🪐 Built with curiosity. Last updated 2026-08-14 — v4.1 (nav anchors fixed).</sub>
 
 </div>
